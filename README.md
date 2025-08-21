@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abel! <br/><a href="https://github.com/Abelito305">Data Analyst</a>, <a href="(https://www.linkedin.com/in/abel-aja-okike-51a32322a)//"a>Visualization Expert</a>
+<h1>Hi, I'm Abel! <br/><a href="https://github.com/Abelito305">Data Analyst</a>, <a href="(https://www.linkedin.com/in/abel-aja-okike-51a32322a)/"a>Visualization Expert</a>
                                                                                    
 <h2>👨‍💻 Projects:</h2>
 
@@ -25,8 +25,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://x/datafenom
-[youtube]: https://www.youtube.com/c/abelajaokike
+[twitter]: https://x.com/datafenom
+[youtube]: http://www.youtube.com/@abelajaokike
 [instagram]: https://www.instagram.com/datafenom/
 [linkedin]: https://linkedin.com/in/abel-ajaokike-51a32322a
 
