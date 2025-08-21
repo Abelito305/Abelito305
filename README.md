@@ -27,7 +27,7 @@
 
 [twitter]: https://x.com/datafenom
 [youtube]: http://www.youtube.com/@abelajaokike
-[instagram]: https://www.instagram.com/abel__305/
+[instagram]: https://www.instagram.com/datafenom/
 [linkedin]: https://linkedin.com/in/abel-ajaokike-51a32322a
 
 <!--
