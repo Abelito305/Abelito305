@@ -30,7 +30,7 @@
 [instagram]: https://www.instagram.com/datafenom/
 [linkedin]: www.linkedin.com/in/abel-aja-okike-51a32322a/
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Abelito305/Abelito305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
