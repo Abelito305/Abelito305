@@ -1,9 +1,9 @@
-<h1>Hi, I'm Abel! <br/><a href="https://github.com/Abelito305">A Data Analyst & Visualization expert</a>
+<h1>Hi, I'm Abel! <br/><a href="https://github.com/Abelito305">A Data Analyst</a>
                                                                                    
 <h2>👨‍💻 Projects:</h2>
 
-- <b>AI tools usage - Indian students</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Microsoft Excel</b>
+  - [AI tools usage - Indian students](https://github.com/Abelito305/AI-tools-usage-Indian-Students-dataset)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
