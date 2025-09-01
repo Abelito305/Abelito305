@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abel! <br/><a href="https://github.com/Abelito305">Data Analyst</a>, <a href="(https://www.linkedin.com/in/abel-aja-okike-51a32322a)/"a>Visualization Expert</a>
+<h1>Hi, I'm Abel! <br/><a href="https://github.com/Abelito305">A Data Analyst & Visualization expert</a>
                                                                                    
 <h2>👨‍💻 Projects:</h2>
 
